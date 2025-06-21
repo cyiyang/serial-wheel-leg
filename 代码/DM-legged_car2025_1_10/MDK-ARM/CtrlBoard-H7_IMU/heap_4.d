@@ -1,0 +1,13 @@
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+ctrlboard-h7_imu\heap_4.o: D:\keil5\keil_538\ARM\ARMCC\Bin\..\include\stdlib.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+ctrlboard-h7_imu\heap_4.o: D:\keil5\keil_538\ARM\ARMCC\Bin\..\include\stddef.h
+ctrlboard-h7_imu\heap_4.o: D:\keil5\keil_538\ARM\ARMCC\Bin\..\include\stdint.h
+ctrlboard-h7_imu\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+ctrlboard-h7_imu\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
